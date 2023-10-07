@@ -2,3 +2,7 @@ Enero
 Febrero
 Marzo
 Abril
+Mayo
+Junio
+Julio
+Agosto
